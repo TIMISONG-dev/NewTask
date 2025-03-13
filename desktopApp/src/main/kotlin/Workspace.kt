@@ -389,12 +389,10 @@ fun GridItem(title: String, index: Int, cells: MutableIntState, openCell: Mutabl
                             Text (
                                 MainData.name,
                                 fontSize = 18.sp,
-                                color = defaultOnColor
                             )
                             Text (
                                 MainData.email,
                                 fontSize = 18.sp,
-                                color = defaultOnColor
                             )
                         }
                     }
